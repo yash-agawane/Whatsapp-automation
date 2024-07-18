@@ -1,7 +1,7 @@
 Whatsapp Automation <br>
 This python code lets you send automatic timmer message, when you are busy or can't message to a specfic person at a specific time, either for wishing birthday wishes at exact 12 am, or an event, you can run python file and let it run in background. 
 <BR> <br>
-Setup:- Open terminal and enter the by command one by one <br>
+Setup:- Open terminal and enter the command one by one <br>
 git clone pywhatkit <br>
 git clone webbrowser <br>
 git clone datetime <br>
