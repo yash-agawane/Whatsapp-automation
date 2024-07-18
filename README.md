@@ -1,7 +1,7 @@
-# Whatsapp Automation <br>
-# This python code lets you send automatic timmer message, when you are busy or can't message to a specfic person at a specific time, either for wishing birthday wishes at exact 12 am, or an event, you can run python file and just set a specific time you want to send <br> 
+Whatsapp Automation <br>
+This python code lets you send automatic timmer message, when you are busy or can't message to a specfic person at a specific time, either for wishing birthday wishes at exact 12 am, or an event, you can run python file and just set a specific time you want to send <br> 
 <BR>
-# NOTE:- <br>
+NOTE:- <br>
 1. This 'automation' uses 24 hour format <br>
 2. You must send messages <underline>without entering 'country code'</underline> [Default = +91 ], you can modify the country code in the python file <br>
 3. While enterring data in time in hours and secounds, the user must use 24 hours format which displays at top <br>
@@ -9,4 +9,4 @@
 5. While encountering a 'Technical error' which means that you have not followed the instructions properly <br> <br>
 
 Thank you !, DM for collab  <br>
-# Email: securezone@duck.com
+Email: securezone@duck.com
