@@ -5,7 +5,7 @@ Setup:- Open terminal and enter the command one by one <br>
 1. 'pip install pywhatkit' <br>
 2. 'pip install datetime' <br>
 
-<br><br>
+<br>
 
 NOTE:- User must have active internet connection<br> 
 1. This 'automation' uses 24 hour format <br>
